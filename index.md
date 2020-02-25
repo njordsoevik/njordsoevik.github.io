@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Titanic Survival](/pdf/titanic_nb.html)
+[Titanic](/pdf/titanic_nb.html)
 <img src="/images/titanic.jpg?raw=true"/>
 
 ---
