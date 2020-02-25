@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Kaggle Competitions 
 
-[Project 1 Title](/sample_page)
+[Housing Prices](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Titanic](/images/titanic.jpg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
