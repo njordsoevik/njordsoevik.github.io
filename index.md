@@ -3,7 +3,6 @@
 ---
 
 ### Kaggle Competitions 
-<img src="/images/titanic.jpg?raw=true"/>
 
 [Housing Prices](/pdf/housing_nb.html)
 
