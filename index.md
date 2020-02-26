@@ -3,13 +3,12 @@
 ---
 
 ### Kaggle Competitions 
+<img src="/images/titanic.jpg?raw=true"/>
 
-[Housing Prices](https://github.com/njordsoevik/data_analysis/tree/master/Projects/Housing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Housing Prices](/pdf/housing_nb.html)
 
 ---
 [Titanic](/pdf/titanic_nb.html)
-<img src="/images/titanic.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
