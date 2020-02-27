@@ -2,8 +2,8 @@
 
 ---
 
-### Kaggle Competitions 
 <img src="images/kaggle.png?raw=true"/>
+### Competitions 
 ---
 
 [Housing Prices](/pdf/housing_nb.html)
