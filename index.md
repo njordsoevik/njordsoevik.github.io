@@ -16,7 +16,7 @@
 
 ---
 
-### Category Name 2
+### Personal Projects
 
 - [Flappy Bird](http://example.com/)
 - [User Choice Machine Learning](http://example.com/)
