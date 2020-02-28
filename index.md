@@ -29,7 +29,6 @@ https://neat-python.readthedocs.io/en/latest/
 [Digit Recognition](/pdf/digits_nb.html)
 
 ---
-More to Come...
 
 
 ---
