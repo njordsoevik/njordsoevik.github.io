@@ -1,6 +1,16 @@
 ## Portfolio
 
 ---
+### Personal Python Projects
+
+- [Flappy Bird](http://example.com/)
+<img src="images/flappybird.gif?raw=true"/>
+- [User Choice Machine Learning](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
 
 <img src="images/kaggle.png?raw=true"/>
 ### Competitions 
@@ -16,16 +26,6 @@
 
 ---
 
-### Personal Projects
-
-- [Flappy Bird](http://example.com/)
-<img src="images/flappybird.gif?raw=true"/>
-- [User Choice Machine Learning](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
