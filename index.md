@@ -3,7 +3,7 @@
 ---
 ### Personal Python Projects
 
-- [Flappy Bird](http://example.com/)
+- [Flappy Bird (Click Me for Code Repository](http://example.com/)
 
 This project combines pygame and artificial nueral networks. To implement reinforcement learning, the algorithm NEAT is used. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found at: 
 https://neat-python.readthedocs.io/en/latest/
