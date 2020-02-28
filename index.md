@@ -18,7 +18,7 @@ https://neat-python.readthedocs.io/en/latest/
 ---
 
 <img src="images/kaggle.png?raw=true"/>
-### Competitions 
+
 ---
 
 [Housing Prices](/pdf/housing_nb.html)
