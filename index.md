@@ -20,7 +20,6 @@ https://neat-python.readthedocs.io/en/latest/
 <img src="images/kaggle.png?raw=true"/>
 
 ---
-
 [Housing Prices](/pdf/housing_nb.html)
 
 ---
@@ -30,9 +29,7 @@ https://neat-python.readthedocs.io/en/latest/
 [Digit Recognition](/pdf/digits_nb.html)
 
 ---
-
-
-
+More to Come...
 
 
 ---
