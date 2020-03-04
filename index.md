@@ -3,14 +3,19 @@
 ---
 ### Personal Python Projects
 
-- [Flappy Bird (Click Me for Code Repository)](http://example.com/)
+- [Flappy Bird (Click Me for Code Repository)](https://github.com/njordsoevik/pygame-flappybird)
 
 This project combines pygame and artificial nueral networks. To implement reinforcement learning, the algorithm NEAT is used. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found at: 
 https://neat-python.readthedocs.io/en/latest/
 
 <img src="images/flappybird.gif?raw=true"/>
 
-- [User Choice Machine Learning](http://example.com/)
+- [User Choice Machine Learning](https://github.com/njordsoevik/user-choice-machine-learning)
+Machine learning architecture that allows users to combine their choices of data sources, from Twitter posts to stock market indicators, and receive a trained neural network able to predict stock price movement  
+User facing RestAPI built with flask and neural networks optimized and trained with Pytorch. High level Visio architecture for this project shown below.
+
+<img src="images/UserChoice.png?raw=true"/>
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
