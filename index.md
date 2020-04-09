@@ -46,7 +46,7 @@ Before creating this script, I would have to access a website's robots.txt file 
 
 [See Facebook's robots.txt file](https://github.com/njordsoevik/GetRobots)
 
-This script automates the process of searching the robots.txt file for rules applying to my bot/search-engine. Below example checks Facebook for which subdomains GoogleBot is allowed.
+This script automates the process of searching the robots.txt file for rules applying to my bot/search-engine. The below example checks Facebook for which subdomains GoogleBot is allowed.
 
 <img src="images/getRobotsCL.PNG?raw=true"/>
 ---
