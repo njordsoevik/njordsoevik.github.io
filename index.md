@@ -36,6 +36,8 @@ High level Visio architecture for this project shown below.
 
 ### Automation
 
+<img src="images/robot.png?raw=true"/>
+
 - [Get Robots](https://github.com/njordsoevik/GetRobots)
 
 If you want to scrape a website with a bot/search-engine, you first have to be allowed to scrape the website. Websites lay out the restrictions for which pages these bots/search-engines can reach in their robots.txt file. 
@@ -46,6 +48,6 @@ Before creating this script, I would have to access a website's robots.txt file 
 
 This script automates the process of searching the robots.txt file for rules applying to my bot/search-engine. Below example checks Facebook for which subdomains GoogleBot is allowed.
 
-<img src="images/getRobotsCL.png?raw=true"/>
+<img src="images/getRobotsCL.PNG?raw=true"/>
 ---
 
