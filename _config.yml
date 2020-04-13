@@ -8,14 +8,14 @@ description: >
   #Portfolio Overview
   ##Machine Learning
   This is where I combine my knowledge from my smaller projects, from gathering data, cleaning data, and implementing machine learning to create full scale projects.
-  These projects have taught me the most about working with public API's, Python data structures, and dealing cleaning data sets of all formats (JSON / XML / CSV ).
+  These projects have taught me the most about working with public API's, Python data structures, and dealing cleaning data sets of all formats (JSON, XML, CSV, etc).
   
   ##Kaggle
-  
-  API's used: 5
-  API's created (Flask): 2
+  While Kaggle does not require data gathering, they are great practice for data cleaning and implementing machine learning. 
+  These projects are great practice for Pyton packages Pandas and Numpy, as well as machine learning packages scikit-learn and Pytorch
   
   ##Automation
+  These are automation projects I "run into" when working on my machine learning projects. When I find something I can automate in my process, it will get added here.
   
   <br><br>
   <a href="https://www.linkedin.com/in/njord-soevik-b59a08154/">View My LinkedIn Profile</a> 
