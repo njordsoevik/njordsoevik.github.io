@@ -5,16 +5,16 @@ description: >
   In my spare time, I love to ski. This year I have taken trips out west and plan to ski the French Alps. 
   <br><br>
   
-**Portfolio Overview**
+#Portfolio Overview
   <br><br>
-  ## Machine Learning
+  **Machine Learning**
   This is where I combine my knowledge from my smaller projects.
   These projects have taught me the most about working with public API's, Python data structures, and dealing cleaning data sets of all formats (JSON, XML, CSV, etc).
   <br><br>
-  ## Kaggle
+  **Kaggle**
   Kaggle projects are great practice for data cleaning and implementing machine learning. From these I have learned Pyton packages Pandas and Numpy, as well as machine learning packages scikit-learn and Pytorch
   <br><br>
-  ## Automation
+  **Automation*
   These are automation projects I "run into" when working on my machine learning projects. When I find something I can automate in my process, it will get added here.
   
   <br><br>
