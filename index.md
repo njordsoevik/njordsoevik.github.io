@@ -2,8 +2,6 @@
 
 ---
 ### Machine Learning
-This is where I combine my knowledge from my smaller data science projects.
-These projects have taught me the most about working with public API's, Python data structures, and dealing cleaning data sets of all formats (JSON, XML, CSV, etc).
 
 ---
 [Flappy Bird](https://github.com/njordsoevik/pygame-flappybird)
