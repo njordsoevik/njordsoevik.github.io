@@ -5,18 +5,13 @@ description: >
   In my spare time, I love to ski. This year I have taken trips out west and plan to ski the French Alps. 
   <br><br>
   
-  #Project Milestones
+  #Portfolio Overview
   ##Machine Learning
-  Packages:
-    Pytorch
-    Pandas 
-    Numpy
+  This is where I combine my knowledge from my smaller projects, from gathering data, cleaning data, and implementing machine learning to create full scale projects.
+  These projects have taught me the most about working with public API's, Python data structures, and dealing cleaning data sets of all formats (JSON / XML / CSV ).
   
   ##Kaggle
   
-  Packages:
-    Requests
-    Selenium
   API's used: 5
   API's created (Flask): 2
   
