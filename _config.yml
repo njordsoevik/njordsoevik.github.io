@@ -1,11 +1,25 @@
 title: Njord Soevik 
 logo: "/images/profilePic.png?raw=true" 
 description: > 
-  I am a Mathematics graduate with a passion for coding and solving complex business problems in big data. My projects are largley coded in Python.
+  I am a Mathematics graduate with a passion for coding and solving complex business problems in big data.
   In my spare time, I love to ski. This year I have taken trips out west and plan to ski the French Alps. 
   <br><br>
   
-  <b>Projects Overview<b>
+  #Project Milestones
+  ** Machine Learning **
+  Packages:
+    Pytorch
+    Pandas 
+    Numpy
+  
+  ** API's **
+  Packages:
+    Requests
+    Selenium
+  API's used: 5
+  API's created (Flask): 2
+  
+  
   
   <br><br>
   <a href="https://www.linkedin.com/in/njord-soevik-b59a08154/">View My LinkedIn Profile</a> 
