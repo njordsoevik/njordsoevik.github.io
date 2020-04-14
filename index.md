@@ -1,4 +1,4 @@
-## Portfolio (Click Project Titles for Code!)
+## Portfolio (Click Project Titles for Code)
 
 ---
 ### Machine Learning
