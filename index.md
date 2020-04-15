@@ -8,7 +8,7 @@
 
 ---
 
-Machine learning architecture that allows users to combine their choices of data sources, from Twitter posts to stock market indicators, and receive a trained neural network able to predict stock price movement  
+Machine learning architecture that allows users to combine their choices of data sources, from Twitter posts sentiment, instagram activity, and stock market indicators, to receive a trained neural network able to predict stock price movement.  
 User facing RestAPI built with flask and neural networks optimized and trained with Pytorch. 
 
 High level Visio architecture for this project shown below.
