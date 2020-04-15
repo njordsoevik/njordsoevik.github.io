@@ -22,7 +22,7 @@ High level Visio architecture for this project shown below.
 This project combines pygame and artificial nueral networks. To implement reinforcement learning, the algorithm NEAT is used. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found [HERE](https://neat-python.readthedocs.io/en/latest/).
 
 
-<img src="images/flappybird.gif?raw=true"/>
+
 
 ---
 <img src="images/kaggle.png?raw=true"/>
