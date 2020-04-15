@@ -19,7 +19,7 @@ High level Visio architecture for this project shown below.
 [Flappy Bird](https://github.com/njordsoevik/pygame-flappybird)
 
 ---
-This project combines pygame and artificial nueral networks. To implement reinforcement learning, the algorithm NEAT is used. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found [HERE](https://neat-python.readthedocs.io/en/latest/).
+This project combines pygame and artificial nueral networks. To implement reinforcement learning, I used the open source algorithm NEAT. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found [HERE](https://neat-python.readthedocs.io/en/latest/).
 
 
 
