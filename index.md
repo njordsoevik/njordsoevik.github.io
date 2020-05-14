@@ -27,13 +27,13 @@ This project combines pygame and artificial nueral networks. To implement reinfo
 <img src="images/kaggle.png?raw=true"/>
 
 ---
-[Housing Prices](/pdf/housing_nb.html)
+[Housing Prices (Click Me)](/pdf/housing_nb.html)
 
 ---
-[Titanic](/pdf/titanic_nb.html)
+[Titanic (Click Me)](/pdf/titanic_nb.html)
 
 ---
-[Digit Recognition](/pdf/digits_nb.html)
+[Digit Recognition (Click Me)](/pdf/digits_nb.html)
 
 ---
 
