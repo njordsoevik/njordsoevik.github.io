@@ -37,7 +37,7 @@ Instead, I can now run getRobots.py to instantly receive a list of rules for my 
 ## Machine Learning Projects
 
 ---
-[User Choice Machine Learning (Click Me)](https://github.com/njordsoevik/user-choice-machine-learning)
+[User Choice Machine Learning (Click Me) (IN PROGRESS)](https://github.com/njordsoevik/user-choice-machine-learning)
 
 ---
 
