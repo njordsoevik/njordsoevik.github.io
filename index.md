@@ -2,7 +2,7 @@
 
 ---
 <img src="images/kaggle.png?raw=true"/>
-## Kaggle Data Analysis Projects
+## Data Cleaning / Analysis Projects
 
 ---
 [Housing Prices (Click Me)](/pdf/housing_nb.html)
