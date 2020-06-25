@@ -1,8 +1,8 @@
-## Portfolio (Click Blue Project Titles for Code)
+#Portfolio (Click Blue Project Titles for Code)
 
 ---
 <img src="images/kaggle.png?raw=true"/>
-### Kaggle Data Analysis Projects
+## Kaggle Data Analysis Projects
 
 ---
 [Housing Prices (Click Me)](/pdf/housing_nb.html)
@@ -14,7 +14,7 @@
 [Digit Recognition (Click Me)](/pdf/digits_nb.html)
 
 ---
-### Machine Learning Projects
+## Machine Learning Projects
 
 ---
 [User Choice Machine Learning](https://github.com/njordsoevik/user-choice-machine-learning)
@@ -36,7 +36,7 @@ This project combines pygame and artificial nueral networks. To implement reinfo
 
 <img src="images/flappybird.gif?raw=true"/>
 
-### Automation Projects
+## Automation Projects
 
 <img src="images/robot.png?raw=true"/>
 
