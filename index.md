@@ -1,4 +1,4 @@
-## Portfolio (Click Project Titles for Code)
+# Portfolio
 
 ---
 <img src="images/kaggle.png?raw=true"/>
