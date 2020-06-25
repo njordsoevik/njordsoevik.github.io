@@ -1,4 +1,4 @@
-# Portfolio (Click Blue Project Titles for Code)
+## Portfolio (Click Project Titles for Code)
 
 ---
 <img src="images/kaggle.png?raw=true"/>
@@ -18,7 +18,7 @@
 <img src="images/robot.png?raw=true"/>
 
 ---
-[Get Robots](https://github.com/njordsoevik/GetRobots)
+[Get Robots (Click Me)](https://github.com/njordsoevik/GetRobots)
 
 ---
 
@@ -36,7 +36,7 @@ Instead, I can now run getRobots.py to instantly receive a list of rules for my 
 ## Machine Learning Projects
 
 ---
-[User Choice Machine Learning](https://github.com/njordsoevik/user-choice-machine-learning)
+[User Choice Machine Learning (Click Me)](https://github.com/njordsoevik/user-choice-machine-learning)
 
 ---
 
@@ -48,7 +48,7 @@ High level Visio architecture for this project shown below.
 <img src="images/UserChoice.PNG"/>
 
 ---
-[Flappy Bird](https://github.com/njordsoevik/pygame-flappybird)
+[Flappy Bird (Click Me)](https://github.com/njordsoevik/pygame-flappybird)
 
 ---
 This project combines pygame and artificial nueral networks. To implement reinforcement learning, I used the open source algorithm NEAT. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found [HERE](https://neat-python.readthedocs.io/en/latest/).
