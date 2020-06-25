@@ -13,6 +13,7 @@
 ---
 [Digit Recognition (Click Me)](/pdf/digits_nb.html)
 
+---
 ## Automation Projects
 
 <img src="images/robot.png?raw=true"/>
