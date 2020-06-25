@@ -1,8 +1,21 @@
-## Portfolio (Click Project Titles for Code)
+## Portfolio (Click Blue Project Titles for Code)
 
 ---
 ### Machine Learning
 
+---
+<img src="images/kaggle.png?raw=true"/>
+
+---
+[Housing Prices (Click Me)](/pdf/housing_nb.html)
+
+---
+[Titanic (Click Me)](/pdf/titanic_nb.html)
+
+---
+[Digit Recognition (Click Me)](/pdf/digits_nb.html)
+
+---
 ---
 [User Choice Machine Learning](https://github.com/njordsoevik/user-choice-machine-learning)
 
@@ -22,20 +35,6 @@ High level Visio architecture for this project shown below.
 This project combines pygame and artificial nueral networks. To implement reinforcement learning, I used the open source algorithm NEAT. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. Full documentation on the NEAT algorithm can be found [HERE](https://neat-python.readthedocs.io/en/latest/).
 
 <img src="images/flappybird.gif?raw=true"/>
-
----
-<img src="images/kaggle.png?raw=true"/>
-
----
-[Housing Prices (Click Me)](/pdf/housing_nb.html)
-
----
-[Titanic (Click Me)](/pdf/titanic_nb.html)
-
----
-[Digit Recognition (Click Me)](/pdf/digits_nb.html)
-
----
 
 ### Automation
 
